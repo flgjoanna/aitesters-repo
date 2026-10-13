@@ -1,3 +1,3 @@
 # aitesters-repo
 
-This repository is used for tests.
+This repository will be used for tests.
